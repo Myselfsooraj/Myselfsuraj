@@ -19,7 +19,7 @@ Hi 👋, I'm Suraj Bhardwaaj
 
 📫 Contact:
 Email: surajbhardwaaj@gmail.com
-LinkedIn: # Hi 👋, I'm Suraj Bhardwaaj
+LinkedIn: https://www.linkedin.com/in/suraj-bhardwaj-4b3817277/
 
 🎓 BCA Student at Kurukshetra University
 
