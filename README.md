@@ -2,7 +2,7 @@ Hi 👋, I'm Suraj Bhardwaaj
 
 🎓 BCA Student at Kurukshetra University
 
-💻 Web Developer | Digital Marketing Enthusiast
+💻 Web Developer | Cyber Security Enthusiast
 
 🌱 Currently Learning:
 - Cybersecurity
@@ -23,7 +23,7 @@ LinkedIn: https://www.linkedin.com/in/suraj-bhardwaj-4b3817277/
 
 🎓 BCA Student at Kurukshetra University
 
-💻 Web Developer | Digital Marketing Enthusiast
+💻 Web Developer | Cyber Security Enthusiast
 
 🌱 Currently Learning:
 - JavaScript
