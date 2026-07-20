@@ -12,7 +12,7 @@ I build hands-on security tools to learn by doing — from packet analysis to th
 - Networking fundamentals for SOC roles
 - Python for security automation
 
-🛡️ Featured Security Projects
+🛡️ Featured Security Projects:-
 
 | Project | Description | Tech Stack |
 |---|---|---|
